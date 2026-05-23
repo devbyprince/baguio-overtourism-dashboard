@@ -1,0 +1,6 @@
+{
+  "name": "Baguio City ICCC Dashboard",
+  "description": "Smart City Sentiment Analysis Dashboard for the Baguio City Local Government Unit (LGU)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
